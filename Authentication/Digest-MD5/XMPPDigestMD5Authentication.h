@@ -2,7 +2,6 @@
 #import "XMPPSASLAuthentication.h"
 #import "XMPPStream.h"
 
-
 @interface XMPPDigestMD5Authentication : NSObject <XMPPSASLAuthentication>
 
 // This class implements the XMPPSASLAuthentication protocol.

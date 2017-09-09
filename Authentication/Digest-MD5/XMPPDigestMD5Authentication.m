@@ -155,6 +155,10 @@
 	
 	NSXMLElement *response = [NSXMLElement elementWithName:@"response" xmlns:@"urn:ietf:params:xml:ns:xmpp-sasl"];
 	[response setStringValue:[self base64EncodedFullResponse]];
+    
+    //登录加上设备号和版本号
+    [response addAttributeWithName:@"device" intValue:2];
+    [response addAttributeWithName:@"versionCode" intValue:xmppStream.appVersion];
 	
 	[xmppStream sendAuthElement:response];
 	awaitingChallenge = NO;
