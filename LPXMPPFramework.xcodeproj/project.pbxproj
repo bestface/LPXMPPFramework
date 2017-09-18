@@ -3907,6 +3907,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "${SDKROOT}/usr/include/libxml2";
 				LIBRARY_SEARCH_PATHS = ../../Vendor/libidn;
+				MODULEMAP_FILE = module.modulemap;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -3956,6 +3957,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "${SDKROOT}/usr/include/libxml2";
 				LIBRARY_SEARCH_PATHS = ../../Vendor/libidn;
+				MODULEMAP_FILE = module.modulemap;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -3982,7 +3984,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFramework;
+				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
@@ -4005,7 +4007,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFramework;
+				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
@@ -4027,7 +4029,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFramework;
+				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -4050,7 +4052,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFramework;
+				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
@@ -4073,7 +4075,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFramework;
+				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -4097,7 +4099,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.XMPPFramework;
+				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;

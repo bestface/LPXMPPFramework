@@ -1,0 +1,6 @@
+framework module libidn {
+  umbrella header "XMPPFramework.h"
+
+  export *
+  module * { export * }
+}
