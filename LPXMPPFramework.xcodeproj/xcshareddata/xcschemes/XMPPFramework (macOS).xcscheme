@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D9DCD3F71E6256D90010D1C7"
-               BuildableName = "XMPPFramework.framework"
-               BlueprintName = "XMPPFramework (macOS)"
-               ReferencedContainer = "container:XMPPFramework.xcodeproj">
+               BuildableName = "LPXMPPFramework.framework"
+               BlueprintName = "LPXMPPFramework (macOS)"
+               ReferencedContainer = "container:LPXMPPFramework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,9 +46,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D9DCD3F71E6256D90010D1C7"
-            BuildableName = "XMPPFramework.framework"
-            BlueprintName = "XMPPFramework (macOS)"
-            ReferencedContainer = "container:XMPPFramework.xcodeproj">
+            BuildableName = "LPXMPPFramework.framework"
+            BlueprintName = "LPXMPPFramework (macOS)"
+            ReferencedContainer = "container:LPXMPPFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -64,9 +64,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D9DCD3F71E6256D90010D1C7"
-            BuildableName = "XMPPFramework.framework"
-            BlueprintName = "XMPPFramework (macOS)"
-            ReferencedContainer = "container:XMPPFramework.xcodeproj">
+            BuildableName = "LPXMPPFramework.framework"
+            BlueprintName = "LPXMPPFramework (macOS)"
+            ReferencedContainer = "container:LPXMPPFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

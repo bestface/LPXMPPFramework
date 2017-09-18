@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0D44BAE91E537066000930E0"
-               BuildableName = "XMPPFramework.framework"
-               BlueprintName = "XMPPFramework (iOS)"
-               ReferencedContainer = "container:XMPPFramework.xcodeproj">
+               BlueprintIdentifier = "D9DCD55A1E6258CF0010D1C7"
+               BuildableName = "LPXMPPFramework.framework"
+               BlueprintName = "LPXMPPFramework (tvOS)"
+               ReferencedContainer = "container:LPXMPPFramework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0D44BAE91E537066000930E0"
-            BuildableName = "XMPPFramework.framework"
-            BlueprintName = "XMPPFramework (iOS)"
-            ReferencedContainer = "container:XMPPFramework.xcodeproj">
+            BlueprintIdentifier = "D9DCD55A1E6258CF0010D1C7"
+            BuildableName = "LPXMPPFramework.framework"
+            BlueprintName = "LPXMPPFramework (tvOS)"
+            ReferencedContainer = "container:LPXMPPFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0D44BAE91E537066000930E0"
-            BuildableName = "XMPPFramework.framework"
-            BlueprintName = "XMPPFramework (iOS)"
-            ReferencedContainer = "container:XMPPFramework.xcodeproj">
+            BlueprintIdentifier = "D9DCD55A1E6258CF0010D1C7"
+            BuildableName = "LPXMPPFramework.framework"
+            BlueprintName = "LPXMPPFramework (tvOS)"
+            ReferencedContainer = "container:LPXMPPFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

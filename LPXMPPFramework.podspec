@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name = 'XMPPFramework'
-  s.version = '3.7.0'
+  s.name = 'LPXMPPFramework'
+  s.version = '3.7.0.1'
 
   s.osx.deployment_target = '10.9'
   s.ios.deployment_target = '8.0'
@@ -8,9 +8,9 @@ Pod::Spec.new do |s|
 
   s.license = { :type => 'BSD', :file => 'copying.txt' }
   s.summary = 'An XMPP Framework in Objective-C for the Mac / iOS development community.'
-  s.homepage = 'https://github.com/robbiehanson/XMPPFramework'
+  s.homepage = 'https://github.com/bestface/XMPPFramework'
   s.author = { 'Robbie Hanson' => 'robbiehanson@deusty.com' }
-  s.source = { :git => 'https://github.com/robbiehanson/XMPPFramework.git', :tag => s.version }
+  s.source = { :git => 'https://github.com/bestface/XMPPFramework.git', :tag => s.version }
   # s.source = { :git => 'https://github.com/robbiehanson/XMPPFramework.git', :branch => 'master' }
   s.resources = [ 'Extensions/**/*.{xcdatamodel,xcdatamodeld}']
 
