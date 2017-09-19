@@ -12,7 +12,7 @@
 		0D44BB0F1E5370ED000930E0 /* XMPPConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D44BAF91E5370ED000930E0 /* XMPPConstants.m */; };
 		0D44BB101E5370ED000930E0 /* XMPPElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFA1E5370ED000930E0 /* XMPPElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D44BB111E5370ED000930E0 /* XMPPElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D44BAFB1E5370ED000930E0 /* XMPPElement.m */; };
-		0D44BB121E5370ED000930E0 /* XMPPFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFC1E5370ED000930E0 /* XMPPFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0D44BB121E5370ED000930E0 /* LPXMPPFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFC1E5370ED000930E0 /* LPXMPPFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D44BB131E5370ED000930E0 /* XMPPInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFD1E5370ED000930E0 /* XMPPInternal.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D44BB141E5370ED000930E0 /* XMPPIQ.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFE1E5370ED000930E0 /* XMPPIQ.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D44BB151E5370ED000930E0 /* XMPPIQ.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D44BAFF1E5370ED000930E0 /* XMPPIQ.m */; };
@@ -580,7 +580,7 @@
 		D9DCD5151E6256D90010D1C7 /* XMPPPrivacy.h in Headers */ = {isa = PBXBuildFile; fileRef = D9DCD16E1E6250930010D1C7 /* XMPPPrivacy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD5161E6256D90010D1C7 /* XMPPvCardAvatarCoreDataStorageObject.h in Headers */ = {isa = PBXBuildFile; fileRef = D9DCD1981E6250930010D1C7 /* XMPPvCardAvatarCoreDataStorageObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD5171E6256D90010D1C7 /* XMPPTransports.h in Headers */ = {isa = PBXBuildFile; fileRef = D9DCD1D11E6250930010D1C7 /* XMPPTransports.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D9DCD5181E6256D90010D1C7 /* XMPPFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFC1E5370ED000930E0 /* XMPPFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D9DCD5181E6256D90010D1C7 /* LPXMPPFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFC1E5370ED000930E0 /* LPXMPPFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD5191E6256D90010D1C7 /* XMPPDigestMD5Authentication.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BB3B1E537105000930E0 /* XMPPDigestMD5Authentication.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD51A1E6256D90010D1C7 /* GCDMulticastDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BB5B1E537110000930E0 /* GCDMulticastDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD51B1E6256D90010D1C7 /* XMPPPlainAuthentication.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BB3E1E537105000930E0 /* XMPPPlainAuthentication.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -880,7 +880,7 @@
 		D9DCD6781E6258CF0010D1C7 /* XMPPPrivacy.h in Headers */ = {isa = PBXBuildFile; fileRef = D9DCD16E1E6250930010D1C7 /* XMPPPrivacy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD6791E6258CF0010D1C7 /* XMPPvCardAvatarCoreDataStorageObject.h in Headers */ = {isa = PBXBuildFile; fileRef = D9DCD1981E6250930010D1C7 /* XMPPvCardAvatarCoreDataStorageObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD67A1E6258CF0010D1C7 /* XMPPTransports.h in Headers */ = {isa = PBXBuildFile; fileRef = D9DCD1D11E6250930010D1C7 /* XMPPTransports.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D9DCD67B1E6258CF0010D1C7 /* XMPPFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFC1E5370ED000930E0 /* XMPPFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D9DCD67B1E6258CF0010D1C7 /* LPXMPPFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BAFC1E5370ED000930E0 /* LPXMPPFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD67C1E6258CF0010D1C7 /* XMPPDigestMD5Authentication.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BB3B1E537105000930E0 /* XMPPDigestMD5Authentication.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD67D1E6258CF0010D1C7 /* GCDMulticastDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BB5B1E537110000930E0 /* GCDMulticastDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9DCD67E1E6258CF0010D1C7 /* XMPPPlainAuthentication.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D44BB3E1E537105000930E0 /* XMPPPlainAuthentication.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1202,7 +1202,7 @@
 		0D44BAF91E5370ED000930E0 /* XMPPConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMPPConstants.m; sourceTree = "<group>"; };
 		0D44BAFA1E5370ED000930E0 /* XMPPElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMPPElement.h; sourceTree = "<group>"; };
 		0D44BAFB1E5370ED000930E0 /* XMPPElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMPPElement.m; sourceTree = "<group>"; };
-		0D44BAFC1E5370ED000930E0 /* XMPPFramework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMPPFramework.h; sourceTree = "<group>"; };
+		0D44BAFC1E5370ED000930E0 /* LPXMPPFramework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPXMPPFramework.h; sourceTree = "<group>"; };
 		0D44BAFD1E5370ED000930E0 /* XMPPInternal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMPPInternal.h; sourceTree = "<group>"; };
 		0D44BAFE1E5370ED000930E0 /* XMPPIQ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMPPIQ.h; sourceTree = "<group>"; };
 		0D44BAFF1E5370ED000930E0 /* XMPPIQ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMPPIQ.m; sourceTree = "<group>"; };
@@ -1592,7 +1592,7 @@
 				0D44BAF91E5370ED000930E0 /* XMPPConstants.m */,
 				0D44BAFA1E5370ED000930E0 /* XMPPElement.h */,
 				0D44BAFB1E5370ED000930E0 /* XMPPElement.m */,
-				0D44BAFC1E5370ED000930E0 /* XMPPFramework.h */,
+				0D44BAFC1E5370ED000930E0 /* LPXMPPFramework.h */,
 				0D44BAFD1E5370ED000930E0 /* XMPPInternal.h */,
 				0D44BAFE1E5370ED000930E0 /* XMPPIQ.h */,
 				0D44BAFF1E5370ED000930E0 /* XMPPIQ.m */,
@@ -2470,22 +2470,22 @@
 		D9DCD3461E6250CA0010D1C7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D9DCD3591E6250CA0010D1C7 /* CocoaLumberjack.framework */,
-				D9DCD35B1E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */,
-				D9DCD35D1E6250CA0010D1C7 /* CocoaLumberjack.framework */,
-				D9DCD35F1E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */,
 				D9DCD3611E6250CA0010D1C7 /* libCocoaLumberjack.a */,
-				D9DCD3631E6250CA0010D1C7 /* CocoaLumberjack.framework */,
-				D9DCD3651E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */,
+				D9DCD35D1E6250CA0010D1C7 /* CocoaLumberjack.framework */,
+				D9DCD3591E6250CA0010D1C7 /* CocoaLumberjack.framework */,
 				D9DCD3671E6250CA0010D1C7 /* CocoaLumberjack.framework */,
+				D9DCD3631E6250CA0010D1C7 /* CocoaLumberjack.framework */,
+				D9DCD35F1E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */,
+				D9DCD35B1E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */,
 				D9DCD3691E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */,
+				D9DCD3651E6250CA0010D1C7 /* CocoaLumberjackSwift.framework */,
+				D9DCD3771E6250CA0010D1C7 /* iOSLibStaticTest.app */,
 				D9DCD36B1E6250CA0010D1C7 /* FmwkTest.app */,
-				D9DCD36D1E6250CA0010D1C7 /* SwiftTest.app */,
 				D9DCD36F1E6250CA0010D1C7 /* iOSSwiftTest.app */,
+				D9DCD36D1E6250CA0010D1C7 /* SwiftTest.app */,
+				D9DCD3751E6250CA0010D1C7 /* tvOSSwiftTest.app */,
 				D9DCD3711E6250CA0010D1C7 /* watchOSSwiftTest.app */,
 				D9DCD3731E6250CA0010D1C7 /* watchOSSwiftTest Extension.appex */,
-				D9DCD3751E6250CA0010D1C7 /* tvOSSwiftTest.app */,
-				D9DCD3771E6250CA0010D1C7 /* iOSLibStaticTest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -2660,7 +2660,7 @@
 				D9DCD28D1E6250930010D1C7 /* XMPPPrivacy.h in Headers */,
 				D9DCD2AE1E6250930010D1C7 /* XMPPvCardAvatarCoreDataStorageObject.h in Headers */,
 				D9DCD2DE1E6250930010D1C7 /* XMPPTransports.h in Headers */,
-				0D44BB121E5370ED000930E0 /* XMPPFramework.h in Headers */,
+				0D44BB121E5370ED000930E0 /* LPXMPPFramework.h in Headers */,
 				0D44BB4E1E537105000930E0 /* XMPPDigestMD5Authentication.h in Headers */,
 				0D44BB691E537110000930E0 /* GCDMulticastDelegate.h in Headers */,
 				0D44BB501E537105000930E0 /* XMPPPlainAuthentication.h in Headers */,
@@ -2820,7 +2820,7 @@
 				D9DCD5151E6256D90010D1C7 /* XMPPPrivacy.h in Headers */,
 				D9DCD5161E6256D90010D1C7 /* XMPPvCardAvatarCoreDataStorageObject.h in Headers */,
 				D9DCD5171E6256D90010D1C7 /* XMPPTransports.h in Headers */,
-				D9DCD5181E6256D90010D1C7 /* XMPPFramework.h in Headers */,
+				D9DCD5181E6256D90010D1C7 /* LPXMPPFramework.h in Headers */,
 				D9DCD5191E6256D90010D1C7 /* XMPPDigestMD5Authentication.h in Headers */,
 				D9DCD51A1E6256D90010D1C7 /* GCDMulticastDelegate.h in Headers */,
 				D9DCD51B1E6256D90010D1C7 /* XMPPPlainAuthentication.h in Headers */,
@@ -2980,7 +2980,7 @@
 				D9DCD6781E6258CF0010D1C7 /* XMPPPrivacy.h in Headers */,
 				D9DCD6791E6258CF0010D1C7 /* XMPPvCardAvatarCoreDataStorageObject.h in Headers */,
 				D9DCD67A1E6258CF0010D1C7 /* XMPPTransports.h in Headers */,
-				D9DCD67B1E6258CF0010D1C7 /* XMPPFramework.h in Headers */,
+				D9DCD67B1E6258CF0010D1C7 /* LPXMPPFramework.h in Headers */,
 				D9DCD67C1E6258CF0010D1C7 /* XMPPDigestMD5Authentication.h in Headers */,
 				D9DCD67D1E6258CF0010D1C7 /* GCDMulticastDelegate.h in Headers */,
 				D9DCD67E1E6258CF0010D1C7 /* XMPPPlainAuthentication.h in Headers */,
@@ -3009,9 +3009,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		0D44BAE91E537066000930E0 /* LPXMPPFramework (iOS) */ = {
+		0D44BAE91E537066000930E0 /* XMPPFramework (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0D44BAF21E537066000930E0 /* Build configuration list for PBXNativeTarget "LPXMPPFramework (iOS)" */;
+			buildConfigurationList = 0D44BAF21E537066000930E0 /* Build configuration list for PBXNativeTarget "XMPPFramework (iOS)" */;
 			buildPhases = (
 				0D44BAE51E537066000930E0 /* Sources */,
 				0D44BAE61E537066000930E0 /* Frameworks */,
@@ -3026,14 +3026,14 @@
 				D9DCD3991E6250DF0010D1C7 /* PBXTargetDependency */,
 				D9DCD3971E6250DB0010D1C7 /* PBXTargetDependency */,
 			);
-			name = "LPXMPPFramework (iOS)";
+			name = "XMPPFramework (iOS)";
 			productName = "XMPPFramework-iOS";
 			productReference = 0D44BAEA1E537066000930E0 /* LPXMPPFramework.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D9DCD3F71E6256D90010D1C7 /* LPXMPPFramework (macOS) */ = {
+		D9DCD3F71E6256D90010D1C7 /* XMPPFramework (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D9DCD5301E6256D90010D1C7 /* Build configuration list for PBXNativeTarget "LPXMPPFramework (macOS)" */;
+			buildConfigurationList = D9DCD5301E6256D90010D1C7 /* Build configuration list for PBXNativeTarget "XMPPFramework (macOS)" */;
 			buildPhases = (
 				D9DCD4001E6256D90010D1C7 /* Sources */,
 				D9DCD4901E6256D90010D1C7 /* Frameworks */,
@@ -3048,14 +3048,14 @@
 				D9DCD54F1E6257B00010D1C7 /* PBXTargetDependency */,
 				D9DCD5531E6257B00010D1C7 /* PBXTargetDependency */,
 			);
-			name = "LPXMPPFramework (macOS)";
+			name = "XMPPFramework (macOS)";
 			productName = "XMPPFramework-iOS";
 			productReference = D9DCD5331E6256D90010D1C7 /* LPXMPPFramework.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D9DCD55A1E6258CF0010D1C7 /* LPXMPPFramework (tvOS) */ = {
+		D9DCD55A1E6258CF0010D1C7 /* XMPPFramework (tvOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D9DCD6931E6258CF0010D1C7 /* Build configuration list for PBXNativeTarget "LPXMPPFramework (tvOS)" */;
+			buildConfigurationList = D9DCD6931E6258CF0010D1C7 /* Build configuration list for PBXNativeTarget "XMPPFramework (tvOS)" */;
 			buildPhases = (
 				D9DCD5631E6258CF0010D1C7 /* Sources */,
 				D9DCD5F31E6258CF0010D1C7 /* Frameworks */,
@@ -3070,7 +3070,7 @@
 				D9DCD69D1E6259770010D1C7 /* PBXTargetDependency */,
 				D9DCD69F1E6259770010D1C7 /* PBXTargetDependency */,
 			);
-			name = "LPXMPPFramework (tvOS)";
+			name = "XMPPFramework (tvOS)";
 			productName = "XMPPFramework-iOS";
 			productReference = D9DCD6961E6258CF0010D1C7 /* LPXMPPFramework.framework */;
 			productType = "com.apple.product-type.framework";
@@ -3120,9 +3120,9 @@
 			);
 			projectRoot = "";
 			targets = (
-				0D44BAE91E537066000930E0 /* LPXMPPFramework (iOS) */,
-				D9DCD3F71E6256D90010D1C7 /* LPXMPPFramework (macOS) */,
-				D9DCD55A1E6258CF0010D1C7 /* LPXMPPFramework (tvOS) */,
+				0D44BAE91E537066000930E0 /* XMPPFramework (iOS) */,
+				D9DCD3F71E6256D90010D1C7 /* XMPPFramework (macOS) */,
+				D9DCD55A1E6258CF0010D1C7 /* XMPPFramework (tvOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -3907,7 +3907,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "${SDKROOT}/usr/include/libxml2";
 				LIBRARY_SEARCH_PATHS = ../../Vendor/libidn;
-				MODULEMAP_FILE = module.modulemap;
+				MODULEMAP_FILE = "";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -3957,7 +3957,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "${SDKROOT}/usr/include/libxml2";
 				LIBRARY_SEARCH_PATHS = ../../Vendor/libidn;
-				MODULEMAP_FILE = module.modulemap;
+				MODULEMAP_FILE = "";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -3984,6 +3984,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
+				MODULEMAP_FILE = "";
 				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SKIP_INSTALL = YES;
@@ -4007,6 +4008,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
+				MODULEMAP_FILE = "";
 				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SKIP_INSTALL = YES;
@@ -4029,6 +4031,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MODULEMAP_FILE = "";
 				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SDKROOT = macosx;
@@ -4052,6 +4055,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MODULEMAP_FILE = "";
 				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SDKROOT = macosx;
@@ -4075,6 +4079,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
+				MODULEMAP_FILE = "";
 				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SDKROOT = appletvos;
@@ -4099,6 +4104,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "";
+				MODULEMAP_FILE = "";
 				PRODUCT_BUNDLE_IDENTIFIER = org.robbiehanson.LPXMPPFramework;
 				PRODUCT_NAME = LPXMPPFramework;
 				SDKROOT = appletvos;
@@ -4120,7 +4126,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0D44BAF21E537066000930E0 /* Build configuration list for PBXNativeTarget "LPXMPPFramework (iOS)" */ = {
+		0D44BAF21E537066000930E0 /* Build configuration list for PBXNativeTarget "XMPPFramework (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0D44BAF31E537066000930E0 /* Debug */,
@@ -4129,7 +4135,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D9DCD5301E6256D90010D1C7 /* Build configuration list for PBXNativeTarget "LPXMPPFramework (macOS)" */ = {
+		D9DCD5301E6256D90010D1C7 /* Build configuration list for PBXNativeTarget "XMPPFramework (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9DCD5311E6256D90010D1C7 /* Debug */,
@@ -4138,7 +4144,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D9DCD6931E6258CF0010D1C7 /* Build configuration list for PBXNativeTarget "LPXMPPFramework (tvOS)" */ = {
+		D9DCD6931E6258CF0010D1C7 /* Build configuration list for PBXNativeTarget "XMPPFramework (tvOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9DCD6941E6258CF0010D1C7 /* Debug */,

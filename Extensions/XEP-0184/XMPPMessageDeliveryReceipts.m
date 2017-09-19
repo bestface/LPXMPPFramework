@@ -1,6 +1,6 @@
 #import "XMPPMessageDeliveryReceipts.h"
 #import "XMPPMessage+XEP_0184.h"
-#import "XMPPFramework.h"
+#import "LPXMPPFramework.h"
 
 #if ! __has_feature(objc_arc)
 #warning This file must be compiled with ARC. Use -fobjc-arc flag (or convert project to ARC).

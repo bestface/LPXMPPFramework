@@ -1,7 +1,7 @@
 #import "XMPPSystemInputActivityMonitor.h"
 #import "XMPP.h"
 #import "XMPPLogging.h"
-#import "XMPPFramework.h"
+#import "LPXMPPFramework.h"
 
 
 #if ! __has_feature(objc_arc)

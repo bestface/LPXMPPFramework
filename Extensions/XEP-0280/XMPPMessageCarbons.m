@@ -1,6 +1,6 @@
 #import "XMPPMessageCarbons.h"
 #import "XMPP.h"
-#import "XMPPFramework.h"
+#import "LPXMPPFramework.h"
 #import "XMPPLogging.h"
 #import "XMPPIDTracker.h"
 #import "NSXMLElement+XEP_0297.h"

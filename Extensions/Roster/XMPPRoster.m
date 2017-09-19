@@ -2,7 +2,7 @@
 #import "XMPP.h"
 #import "XMPPIDTracker.h"
 #import "XMPPLogging.h"
-#import "XMPPFramework.h"
+#import "LPXMPPFramework.h"
 #import "DDList.h"
 
 #if ! __has_feature(objc_arc)
